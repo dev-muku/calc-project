@@ -32,9 +32,7 @@ class analysedText(object):
         else:
             return 0
     
-```
 
-</details>
 
 
 
